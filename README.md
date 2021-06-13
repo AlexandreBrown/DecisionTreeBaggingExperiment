@@ -1,8 +1,8 @@
 # DecisionTreeBaggingExperiment  
   
 ## Results
-![Results](https://i.ibb.co/dgpgw4v/Results.png)  
-Score without bagging :  99.18463336957668 %  
-Score with bagging :  99.3976963974655 %
+![Results](https://i.ibb.co/n0QghFb/Results.png)  
+Score without bagging :  0.988374259429328  
+Score with bagging :  0.9912910411546599
 
 - We can see that bagging tends to produce smoother curve and can slightly improve the results.
